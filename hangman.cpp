@@ -11,7 +11,7 @@ int main() {
     // word list
     vector<string> words = {"school", "pokemon", "marvel","books", "disney", "dragon", "gaming"};
 
-    // initialize randsom number generator
+    // initialize random number generator
     srand(time(0));
     int randomIndex = rand() % words.size();
     string wordToGuess = words[randomIndex];
