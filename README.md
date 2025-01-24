@@ -8,7 +8,7 @@ I chose hangman since I wanted to learn more about writting C++ programs. I like
 
 {Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=4Due7G0yJ-Q)
 
 # Development Environment
 
